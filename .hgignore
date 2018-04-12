@@ -1,0 +1,7 @@
+syntax: glob
+RiotAPICrawler/.vs/
+RiotAPICrawler/Assembly-CSharp.csproj
+RiotAPICrawler/Library/
+RiotAPICrawler/obj/
+RiotAPICrawler/RiotAPICrawler.csproj
+RiotAPICrawler/RiotAPICrawler.sln
